@@ -1,0 +1,28 @@
+current_fold is:0Evaluation index of MobileNetV3-Large
+test_acc is:0.8767
+sensitivity is:0.9167
+specificity is:0.8367
+error_rate is:0.1233
+auc is:0.948
+G_Mean is:0.8758
+F_Measure is:0.8814
+
+Evaluation index of MobileNetV3-Small
+test_acc is:0.8417
+sensitivity is:0.86
+specificity is:0.8233
+error_rate is:0.1583
+auc is:0.8941
+G_Mean is:0.8415
+F_Measure is:0.8445
+
+Evaluation index of MobileNetV3-Large&MobileNetV3-Small
+test_acc is:0.8867
+sensitivity is:0.9167
+specificity is:0.8567
+error_rate is:0.1133
+auc is:0.9543
+G_Mean is:0.8862
+F_Measure is:0.89
+
+

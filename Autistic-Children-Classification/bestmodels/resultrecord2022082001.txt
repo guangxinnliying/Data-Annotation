@@ -1,0 +1,28 @@
+current_fold is:0Evaluation index of MobileNetV2
+test_acc is:0.8833
+sensitivity is:0.8633
+specificity is:0.9033
+error_rate is:0.1167
+auc is:0.9517
+G_Mean is:0.8831
+F_Measure is:0.881
+
+Evaluation index of MobileNetV3
+test_acc is:0.8767
+sensitivity is:0.9167
+specificity is:0.8367
+error_rate is:0.1233
+auc is:0.948
+G_Mean is:0.8758
+F_Measure is:0.8814
+
+Evaluation index of MobileNetV2&MobileNetV3
+test_acc is:0.905
+sensitivity is:0.9233
+specificity is:0.8867
+error_rate is:0.095
+auc is:0.9647
+G_Mean is:0.9048
+F_Measure is:0.9067
+
+
